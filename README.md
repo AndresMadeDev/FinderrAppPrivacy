@@ -1,4 +1,4 @@
-## 
+
 Finderr App do not collect ant data or informations from our users
 
 Changes to this Privacy Policy
